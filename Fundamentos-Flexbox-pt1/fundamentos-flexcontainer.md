@@ -22,3 +22,17 @@ Propriedade que estabelece os eixos dentro de um container.
     - column: Ordenação em forma de colunas
     - column-reverse: igual o de cima só que contrário
 
+
+3º - Flex Wreap
+
+Definir a quebra de linha ou como se comporta
+Tratativa de vazamentos do container
+
+nowrap
+    - Por padrão, não permite a quebra de linha
+
+wrap
+    - Permite a quebra de linha assim que houver o vazamento do wrap
+
+Wrap-reverse
+    - Mesma lógica do Wrap porem sentido contrário (a linha seguinte vai para cima)
