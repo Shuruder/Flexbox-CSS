@@ -36,3 +36,9 @@ wrap
 
 Wrap-reverse
     - Mesma lógica do Wrap porem sentido contrário (a linha seguinte vai para cima)
+
+
+4º - Flex-flow
+
+Atalho para as propriedades flex-dfirection e flex-warp
+Não é comum de se usar, já que quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap
