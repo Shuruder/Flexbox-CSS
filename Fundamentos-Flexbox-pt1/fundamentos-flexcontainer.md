@@ -36,3 +36,21 @@ wrap
 
 Wrap-reverse
     - Mesma lógica do Wrap porem sentido contrário (a linha seguinte vai para cima)
+
+
+4º Justify Content
+
+Alinhar os itens dentro do container de acordo com a direçção 
+pretendida e trata da distribuição de espaçamento entre eles
+
+OBS: Se seus itens ocupam 100% do container, ela não se aplica
+
+Algumas variações:
+
+fles-start: inicio do container
+flex-end: final do container
+center: ao centro do container
+space-between: um espalamento iugal entre os elementos
+    Pega o primeiro elemento e coloca muito proximo ao inicio do container e o ultimo ao final
+space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final
+
