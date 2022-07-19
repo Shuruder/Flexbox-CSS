@@ -38,6 +38,7 @@ Wrap-reverse
     - Mesma lógica do Wrap porem sentido contrário (a linha seguinte vai para cima)
 
 
+<<<<<<< HEAD
 4º Justify Content
 
 Alinhar os itens dentro do container de acordo com a direçção 
@@ -54,3 +55,9 @@ space-between: um espalamento iugal entre os elementos
     Pega o primeiro elemento e coloca muito proximo ao inicio do container e o ultimo ao final
 space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final
 
+=======
+4º - Flex-flow
+
+Atalho para as propriedades flex-dfirection e flex-warp
+Não é comum de se usar, já que quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap
+>>>>>>> 3624e2df56c1a85f5c63de5c02baa19229ab2b8a
