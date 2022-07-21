@@ -59,3 +59,22 @@ center: ao centro do container
 space-between: um espalamento iugal entre os elementos
     Pega o primeiro elemento e coloca muito proximo ao inicio do container e o ultimo ao final
 space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final
+
+
+6º Align-items
+
+Tratamento do alinhamento dos flex itens de acordo com o eixo do container
+
+Alinhamento é diferente quando os itens estão em linhas ou colunas
+
+Permite alinhamento central no eixo vertical
+
+(justify conta)
+
+Tipo:
+    Center: alinha no centro
+    stretch: padrão, e os flex itens cresçam igualmente
+    flex-start: alinhamento dos itens no início
+    flex-end: alinhamento para o final
+    baseline: de acordo com a linha base da tipografia dos itens
+    
