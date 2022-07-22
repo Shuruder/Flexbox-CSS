@@ -78,3 +78,23 @@ Tipo:
     flex-end: alinhamento para o final
     baseline: de acordo com a linha base da tipografia dos itens
     
+
+    7º Align-content
+
+    tratamento do eixo vertical (linhas do container)
+
+    Precisamos que:
+        O container utilize quebra de linhas
+        A altura do container seja maior que a soma das linhas dos itens
+            (container seja maior que a soma (altura das linhas))
+    
+    tipos:
+
+    center: alinhamento dos itens ao centro
+    stretch: padrão flex itens crescem igualmente
+    flex-start: alinhamento dos itens dno inicio
+    flex-end: alinhamento dos itens no final
+    space-between: cria um espaçamento igual entre os elementos
+    space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final
+
+    
