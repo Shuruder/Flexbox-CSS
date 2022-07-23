@@ -40,3 +40,21 @@ para as propriedades grow shrink e basis
 Order
 
 Basicamente ordenação de itens
+
+
+---
+
+Align-self
+
+É a propriedade que estabelece o alinhamento de modo 
+individual sobre um determinado item
+
+valores possiveis
+
+    auto: valor padrão, ira respeitar a definição de align-items
+    flex-start: ao inicio do container
+    flex-end: ao final do container
+    center: relativo ao centro de acordo com o eixo
+    stretch: ocupa todo o espaço relativo
+    baseline: uytiliza a linha base da tipografia
+
