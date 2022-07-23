@@ -6,3 +6,18 @@ OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex 
 
 
 (exemplo pratico em codigo 7)
+
+
+
+----
+
+Flex-basis
+
+É uma propriedade que estabelece o tamanho inicial do item antes da distribuição de
+espaço restannte dentro dele, usando como base o conteúdo interno.
+
+Valores possiveis:
+    auto: tamanho proporcional ao conteúdo se não definido
+    px, %, ...: são valores extados previamente definidos
+    0 (zero): terá relação com a definição do flex-grow
+
