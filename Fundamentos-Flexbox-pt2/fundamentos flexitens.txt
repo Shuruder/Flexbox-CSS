@@ -1,0 +1,8 @@
+Continuando o conteúdo agora temos o Flex-grow
+
+Define a proporcionalidade de crescimentos dos itens, respeitando o tamanho de seus conteúdos internos.
+
+OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container
+
+
+(exemplo pratico em codigo 7)
