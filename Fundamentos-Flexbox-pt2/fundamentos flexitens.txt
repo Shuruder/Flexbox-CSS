@@ -21,3 +21,8 @@ Valores possiveis:
     px, %, ...: são valores extados previamente definidos
     0 (zero): terá relação com a definição do flex-grow
 
+------
+
+Flex-shrink
+
+Capacidade de redução ou compressão do tamanho de um item
